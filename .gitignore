@@ -28,3 +28,10 @@ Thumbs.db
 # IDE
 .idea/
 .vscode/
+# Local configuration
+appsettings.Local.json
+
+# Environment files
+.env
+.env.*
+!.env.example
