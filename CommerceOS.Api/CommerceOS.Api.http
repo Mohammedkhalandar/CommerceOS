@@ -1,0 +1,6 @@
+@CommerceOS.Api_HostAddress = http://localhost:5110
+
+GET {{CommerceOS.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CommerceOS.Api/CommerceOS.Api.csproj" />
+  <Project Path="CommerceOS.Application/CommerceOS.Application.csproj" />
+  <Project Path="CommerceOS.Domain/CommerceOS.Domain.csproj" />
+  <Project Path="CommerceOS.Infrastructure/CommerceOS.Infrastructure.csproj" />
+</Solution>
